@@ -76,7 +76,7 @@ You can train QEM-DSAC agents using:
 python qemdsac.py --config configs/dsac-normal-fix-neutral/ant.yaml --gpu 0 --seed 0 --weight 1.25
 ```
 
-You can train QEM-DSAC agents using:
+You can train IQEM-DSAC agents using:
 
 ```
 python qemdsac.py --config configs/dsac-normal-iqn-neutral/ant.yaml --gpu 0 --seed 0 
